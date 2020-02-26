@@ -1,0 +1,5 @@
+com/interactive/assessment/models/Person.class
+com/interactive/assessment/repository/PersonRepository.class
+com/interactive/assessment/controller/PersonController.class
+com/interactive/assessment/AssessmentApplication.class
+com/interactive/assessment/service/PersonService.class
